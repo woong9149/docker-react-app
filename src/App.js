@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        안녕하세요, 또커입니다.
       </header>
     </div>
   );
